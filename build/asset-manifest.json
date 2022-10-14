@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbf0b904.css",
+    "main.js": "/static/js/main.2471a41d.js",
+    "static/js/787.0c1dd775.chunk.js": "/static/js/787.0c1dd775.chunk.js",
+    "static/media/card-slider-1.webp": "/static/media/card-slider-1.2e0b6f8db7add7bb6d45.webp",
+    "static/media/star-2767.svg": "/static/media/star-2767.897e16088974160600ad42fc2ce913fe.svg",
+    "static/media/heart-917.svg": "/static/media/heart-917.9925e455f3b9b1265d43b28fd7365f80.svg",
+    "static/media/search-2906.svg": "/static/media/search-2906.e363778a9b4a5390ce8c8b596cf59015.svg",
+    "static/media/arro-up-3100.svg": "/static/media/arro-up-3100.9da970246e606fcdbaa9ceea2469610a.svg",
+    "index.html": "/index.html",
+    "static/media/manu.svg": "/static/media/manu.bc000352fd74778c5de2d365bcacbf4c.svg",
+    "main.fbf0b904.css.map": "/static/css/main.fbf0b904.css.map",
+    "main.2471a41d.js.map": "/static/js/main.2471a41d.js.map",
+    "787.0c1dd775.chunk.js.map": "/static/js/787.0c1dd775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf0b904.css",
+    "static/js/main.2471a41d.js"
+  ]
+}
